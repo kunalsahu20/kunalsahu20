@@ -108,7 +108,7 @@
  <!-- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" style font-weight="bold" width="25"  > &nbsp; --> <h2> <b> Projects</b> </h2>
 
 
-### [🌟 Advanced AI Chatbot (Flagship Project)](https://github.com/kunalsahu20/try)
+### [🌟 Advanced AI Chatbot (Flagship Project)](https://www.happie-ai.xyz)
 - **Description**: A Node.js-based AI chatbot built with real-time communication and advanced natural language understanding.  
 - **Highlights**:
   - Real-time communication powered by Express.js and Socket.IO.
