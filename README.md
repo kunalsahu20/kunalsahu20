@@ -120,7 +120,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### [E-Commerce Website](https://github.com/kunalsahu20/ecom_website)
+### [E-Commerce Website](https://github.com/kunalsahu20/ecom-web)
 - **Description**: A full-stack e-commerce platform featuring categories, shopping cart, and a payment gateway.  
 - **Technologies Used**:  
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
