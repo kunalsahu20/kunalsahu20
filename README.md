@@ -129,7 +129,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### [Pet Showcase Website](https://github.com/kunalsahu20/pet_website)
+### [Pet Showcase Website](https://github.com/kunalsahu20/pet-shop)
 - **Description**: A visually appealing website for showcasing pet details, including login functionality and interactive slideshows.  
 - **Technologies Used**:  
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
