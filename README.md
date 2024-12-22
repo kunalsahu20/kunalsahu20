@@ -138,7 +138,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+### [Elegant Calculator](https://github.com/kunalsahu20/Calculator)
+- **Description**: A modern, feature-rich calculator web application built with HTML, CSS, and JavaScript.  
+- **Highlights**:
+  - Beautiful glassmorphism UI design
+  - Dark/Light mode toggle
+  - Fully responsive for all devices
+  - Scientific calculator mode
+  - Smooth animations and transitions
+  - Custom scrollbar design
+  - Precise calculations
+- **Technologies Used**:  
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> GitHub Stats </b>
 <br>
 
 <div align="center">
